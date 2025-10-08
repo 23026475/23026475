@@ -1,4 +1,4 @@
-content = """# 💫 About Me  
+ 
 👋 Hi, I'm **Ndivhuwo Neswiswi** — a passionate developer and tech enthusiast with a love for creating impactful digital solutions that make life easier.  
 
 ### 💼 Current Role  
@@ -89,11 +89,3 @@ BSc General — *Majors: Computer Science & Mathematics* (Discontinued)
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=23026475&theme=dracula&no-frame=false&no-bg=true&margin-w=4)  
 
----
-
-[![](https://visitcount.itsvg.in/api?id=23026475&icon=0&color=0)](https://visitcount.itsvg.in)
-"""
-with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
-    f.write(content)
-
-"/mnt/data/README.md"
