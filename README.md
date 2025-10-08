@@ -1,50 +1,99 @@
-# 👋 Hi, I'm Ndivhuwo Neswiswi  
+content = """# 💫 About Me  
+👋 Hi, I'm **Ndivhuwo Neswiswi** — a passionate developer and tech enthusiast with a love for creating impactful digital solutions that make life easier.  
 
-🎓 **Junior Software Developer | Microsoft Certified**
+### 💼 Current Role  
+**Mint Group (Microsoft Partner)**  
+**Junior Technical Agent (IT Support & Development)**  
+📅 July 2025 – Present  
+*(Intern Developer: Jan 2025 – June 2025)*  
 
-I'm passionate about **building scalable, human-centered software** that bridges innovation and impact.  
-Currently, I work at **Mint Group (Microsoft Partner)**, contributing to projects like **hospital record digitization** and internal web systems using **.NET, C#, and Azure**.
-
----
-
-## 🧠 **Tech Stack**
-
-**Languages:** C# • JavaScript • TypeScript • Java • Python • SQL  
-**Frameworks:** .NET • ASP.NET MVC • Vue • Blazor • Next.js • Tailwind CSS  
-**Databases:** SQL Server • MongoDB • MariaDB  
-**Cloud & Tools:** Azure • Power Platform • GitHub • Visual Studio  
-
----
-
-## 🚀 **Highlighted Projects**
-
-- 🏥 **Hospital Digitization System** – Developed healthcare data solutions, trained hospital staff, and supported bug tracking & testing.  
-- 🌿 **Thrive App (GirlCode Hackathon 2024)** – Mental wellness platform connecting users to counsellors & emergency alerts.  
-- 🎓 **EduCare LMS** – Full-stack .NET & Vue learning platform with role-based access & progress tracking.  
+**Key Contributions:**  
+- Developed and maintained internal .NET web apps with SQL Server & Azure integration.  
+- Provided IT support: system setup, hardware/software configuration, troubleshooting.  
+- Digitized hospital records, trained staff, and guided bug logging and ticket management.  
+- Ensured data security & compliance across medical systems.  
 
 ---
 
-## 🏅 **Certifications**
+### 🚀 Professional Training  
+**GirlCode Leadership Program (2022–2023)** — *Scrum Master & Developer*  
+- Led daily stand-ups & sprint planning for multi-developer teams.  
+- Focused on Agile, communication, and delivery improvement.  
 
-- Microsoft Certified: AI-900 • AZ-900 • SC-900 • PL-900  
-- Power Platform & Dynamics 365 (in progress)  
-
----
-
-## 📊 **GitHub Stats**
-
-![Thanyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23026475&show_icons=true&theme=dracula&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23026475&layout=compact&theme=dracula&hide_border=true)
-
----
-
-## 🌱 **Soft Skills**
-
-💡 Problem Solving • 🤝 Teamwork • 🧩 Critical Thinking • 🎯 Continuous Learning  
+**Technical Skills:**  
+C#, C++, Java, JavaScript, Python, SQL, HTML, CSS  
+MongoDB, MariaDB, MySQL  
+Vue.js, Next.js, .NET, Tailwind CSS, Bootstrap  
+Power BI, Power Apps, Power Automate, Excel  
 
 ---
 
-📫 **Let’s Connect**  
-[LinkedIn](https://www.linkedin.com/in/thanyani-neswiswi) • ✉️ ndivhuswiswi@gmail.com  
+### 🧠 Projects  
+- **EduCare LMS** – Student & teacher platform (.NET + Vue)  
+- **Netflix Clone** – Entertainment app (Next.js + Tailwind)  
+- **Thrive App** – Mental health app (GirlCode Hackathon 2024)  
+- **Business Site** – Responsive website for a local business  
 
-> “Building solutions that empower, connect, and inspire — one line of code at a time.”
+---
+
+### 🏅 Achievements & Hackathons  
+- **Eskom Expo (2016–2018):** 🥇🥈🥉 Multiple Regional & International Medals  
+- **Mbewu Synapse (2018):** 🥉 Bronze Medal  
+- **GirlCode Hackathon (2024):** Built *Thrive*, a mental wellness app  
+- **Adopt IT & Retro Rabbit Hackathons (2020):** Learned UI/UX best practices  
+
+---
+
+### 🎓 Education  
+**University of the Witwatersrand (2019–2022)**  
+BSc General — *Majors: Computer Science & Mathematics* (Discontinued)  
+
+---
+
+### 📜 Certifications  
+- Microsoft Certified: AI-900 (Azure AI Fundamentals)  
+- Microsoft Certified: AZ-900 (Azure Fundamentals)  
+- Microsoft Certified: SC-900 (Security, Compliance & Identity)  
+- Microsoft Certified: PL-900 (Power Platform Fundamentals)  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NdivhuwoNeswiswi)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ndivhuswiswi@gmail.com)  
+
+---
+
+# 💻 Tech Stack  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+---
+
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=23026475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=23026475&theme=dracula&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=23026475&theme=dracula&hide_border=false&layout=compact)  
+
+---
+
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=23026475&theme=dracula&no-frame=false&no-bg=true&margin-w=4)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=23026475&icon=0&color=0)](https://visitcount.itsvg.in)
+"""
+with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+"/mnt/data/README.md"
