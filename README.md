@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ndivhuwo Neswiswi  
 
-🎓 **Junior Software Developer | Microsoft Certified **
+🎓 **Junior Software Developer | Microsoft Certified**
 
 I'm passionate about **building scalable, human-centered software** that bridges innovation and impact.  
 Currently, I work at **Mint Group (Microsoft Partner)**, contributing to projects like **hospital record digitization** and internal web systems using **.NET, C#, and Azure**.
